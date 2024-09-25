@@ -1,5 +1,3 @@
----
-
 # ft_printf
 
 ## Description
@@ -30,28 +28,3 @@
    git clone https://github.com/Bidiche49/ft_printf
    cd ft_printf
    ```
-2. Compile the library:
-   ```bash
-   make
-   ```
-3. Include `ft_printf.h` and link the compiled library in your projects.
-
-## Example Usage
-
-```c
-#include "ft_printf.h"
-
-int main() {
-    ft_printf("Hello, %s! Your score is %d.\n", "Alice", 95);
-    return 0;
-}
-```
-
-## Compilation
-
-To compile a project using `ft_printf`:
-```bash
-gcc -Wall -Wextra -Werror -o your_program your_program.c -L. -lftprintf
-```
-
----
