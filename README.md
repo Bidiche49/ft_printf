@@ -1,5 +1,3 @@
----
-
 # ft_printf
 
 ## Description
