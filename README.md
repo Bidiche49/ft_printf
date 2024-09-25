@@ -2,7 +2,7 @@
 
 # ft_printf
 
-# Description
+## Description
 
 `ft_printf` is a custom implementation of the standard `printf` function from the C standard library. The project aims to recreate the behavior of `printf`, allowing formatted output of various data types to the standard output. It serves as an exercise in understanding variadic functions, buffer management, and format parsing.
 
