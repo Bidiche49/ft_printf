@@ -51,7 +51,7 @@ int main() {
 
 To compile a project using `ft_printf`:
 ```bash
-gcc -Wall -Wextra -Werror -o <your_program> <your_program>.c -L. -lftprintf
+gcc -Wall -Wextra -Werror -o your_program your_program.c -L. -lftprintf
 ```
 
 ---
